@@ -1,0 +1,154 @@
+*{
+    margin: 0;
+}
+.navbar{display: flex;
+    gap:15px;
+    padding: 5px;
+     margin: 0;
+     word-spacing: 20px;
+     text-align:justify;
+     padding-top: 25px;
+     
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.Btn{
+    width: 76px;
+    height: 30px;
+    color: rgb(255, 255, 255);
+    background-color: #232d36;
+    margin: 0;
+    border: 0px;
+
+}
+
+.Btn:hover {
+    background-color: black;
+}
+.heading1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+.back{
+    background-image: url('/Image/background_in_space.gif');
+}
+.Ab{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.font{
+    font-size: 16px;
+    text-align:left;
+    
+}
+.div1{
+    width: 195px;
+    height: 40px;
+
+
+}
+
+
+
+.b1{
+    border-radius: 2cap;
+    margin: 20px;
+    text-decoration: none;
+    width: 200px;
+    height: 40px;
+    border: none;
+   
+}
+.b1:hover{
+    opacity:0.7 ;
+}
+
+
+.d1{
+    margin-left: -1%;
+    margin-right: -1%;
+}
+.d2{
+    background-color:  rgb(221, 221, 218);
+    width:70%;
+    margin-right: 10%;
+    margin: 20px;
+}
+.d3{
+    margin-left: 25px;
+    background-color: rgb(255, 255, 255);
+    width: 360px;
+    height:300px;
+}
+
+.p1{
+    text-align: left;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.S1{
+    background-color:  rgb(243, 140, 226);
+    width:40%;
+    margin-right: 10%;
+    margin-left: 35px;
+    margin-top: 85px;
+    border-radius: 5px;
+}
+
+
+.bm1{
+    width: 400px; 
+    height:200px ;
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 1cap;
+
+}
+
+.fb1{
+    display:flex ;
+    gap: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.bm2{
+    width: 400px; 
+    height:50px ;
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 1cap;
+}
+
+.fb2{
+    display:flex ;
+    gap: 50px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.fb3{
+    display:flex ;
+    gap: 55px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.bm3{
+    width: 120px; 
+    height:25px ;
+    padding: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 1cap;
+}
+
