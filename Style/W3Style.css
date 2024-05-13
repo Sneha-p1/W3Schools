@@ -1,6 +1,7 @@
 *{
     margin: 0;
 }
+
 .navbar{display: flex;
     gap:15px;
     padding: 5px;
@@ -8,8 +9,13 @@
      word-spacing: 20px;
      text-align:justify;
      padding-top: 25px;
+    
+     top: 0;
+     z-index: 1000;
      
 }
+
+
 a {
     text-decoration: none;
     color: black;
@@ -35,10 +41,12 @@ a {
 }
 .back{
     background-image: url('/Image/background_in_space.gif');
+  
 }
 .Ab{
     color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 
 }
 .font{
@@ -49,7 +57,7 @@ a {
 .div1{
     width: 195px;
     height: 40px;
-
+    
 
 }
 
@@ -78,6 +86,7 @@ a {
     width:70%;
     margin-right: 10%;
     margin: 20px;
+    margin-left: 150px;
 }
 .d3{
     margin-left: 25px;
@@ -150,5 +159,62 @@ a {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     border-radius: 1cap;
+}
+
+.container {
+    display: inline-block;
+    }
+h1{
+        font-size: 70px;
+    }
+
+@media only screen and (max-width:900px){
+    .fb1{
+        display:block ;
+        gap: 50px;
+        flex-direction: column;
+    }
+    
+    .bm1{
+        display:block ;
+        gap: 50px;
+        flex-direction: column;
+    }
+    .bm3{
+        width: 80px; 
+        border-radius: 1cap;
+        text-align: center;
+        }
+
+    h1{
+        font-size: 30px;
+    }
+
+
+}
+
+@media only screen and (max-width:600px){
+    .fb1{
+        display:block ;
+        gap: 50px;
+        flex-direction: column;
+    }
+    
+    .bm1{
+        display:block ;
+        gap: 50px;
+        flex-direction: column;
+    }
+    .bm3{
+        width: 60px; 
+        border-radius: 1cap;
+        text-align: center;
+        }
+
+    h1{
+        font-size: 10px;
+    }
+
+
 }
 
