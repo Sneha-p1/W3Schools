@@ -6,4 +6,4 @@ Welcome to the W3 School website project! The goal of this project is to offer a
 - Setup
 - Usage
 ## Introduction
-Is a website that showcases excellent front-end design solutions and was inspired by W3Schools[https://www.w3schools.com/].
+Is a website that showcases excellent front-end design solutions and was inspired by [W3Schools](https://www.w3schools.com/).
