@@ -17,7 +17,7 @@ To set up the project locally, follow these steps :
 - Clone the repository to your local machine: git clone <repository_url>
 - Open the `W3Schools.html` file in your web browser to view the website.
 ## Usage
-Simply open the `index.html` file in your web browser to explore the frontend design. Use the navigation menu to browse different sections and interact with code examples.
+Simply open the `W3Schools.html` file in your web browser to explore the frontend design. Use the navigation menu to browse different sections and interact with code examples.
 ## Acknowledgements
 The design inspiration comes from [W3Schools](https://www.w3schools.com/).
 
