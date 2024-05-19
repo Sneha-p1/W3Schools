@@ -5,6 +5,7 @@ Welcome to the W3 School website project! The goal of this project is to offer a
 - Project Structure
 - Setup
 - Usage
+- Acknowledgements
 ## Introduction
 This is a website that showcases excellent front-end design solutions and was inspired by [W3Schools](https://www.w3schools.com/). It offers a modern, user-friendly frontend design for learning web development. Explore the code, enjoy the interactive features.
 ## Project Structure
